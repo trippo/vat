@@ -267,6 +267,7 @@ class Countries implements \Iterator, \ArrayAccess
         'ZA' => 'South Africa',
         'ZM' => 'Zambia',
         'ZW' => 'Zimbabwe',
+        'XI' => 'Northern Ireland',
     ];
 
     /**
@@ -317,6 +318,7 @@ class Countries implements \Iterator, \ArrayAccess
             'SI', // Slovenia
             'SK', // Slovakia
             'YT', // Mayotte => France
+            'XI', // Northern Ireland
         ];
     }
 
